@@ -1,3 +1,5 @@
 ﻿<Solution>
   <Project Path="src\FnaTemplate\FnaTemplate.csproj" Type="Classic C#" />
+  <Project Path="src\FNA.NativeLibraries\FNA.NativeLibraries.csproj" Type="Classic C#" />
+  <Project Path="src\FNA\FNA.Core.csproj" Type="Classic C#" />
 </Solution>

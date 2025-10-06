@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\FNA.NativeLibraries\FNA.NativeLibraries.csproj" />
+      <ProjectReference Include="..\FNA\FNA.Core.csproj" />
+    </ItemGroup>
+
 </Project>
