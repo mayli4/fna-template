@@ -1,4 +1,4 @@
-﻿using FnaTemplate._Driver;
+﻿using FnaTemplate;
 
 namespace FnaTemplate;
 
